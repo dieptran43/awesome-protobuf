@@ -5,11 +5,21 @@
 
 ## Contents
 
+- [Documentation](#doc)
 - [Linters](#linters)
 - [Tools](#tools)
   * [CLI](#tools-cli)
-- [VsCode](#vscode)
+- [IDE](#ide)
+- [Language specific](#lang)
+  * [Official](#lang-official)
+  * [Others](#lang-others)
 
+
+<a name="doc"></a>
+## Documentation
+- [Website](https://developers.google.com/protocol-buffers) - Official documentation
+- [Github Repo](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+- [Style Guide](https://developers.google.com/protocol-buffers/docs/style) - Style guide for `.proto` files
 
 <a name="linters"></a>
 ## Linters
@@ -21,6 +31,22 @@
 ### CLI
 - [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 
-<a name="vscode"></a>
-## VsCode
+<a name="ide"></a>
+## IDE
 - [vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3
+- [IntelliJ plugin](https://plugins.jetbrains.com/plugin/14004-protocol-buffers)
+
+<a name="lang"></a>
+## Language specific
+
+<a name="lang-official"></a>
+### Official
+- [C++](https://github.com/protocolbuffers/protobuf) - Main repository
+- [Go](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
+- [Haskell](https://github.com/google/proto-lens) - API for protocol buffers using modern Haskell language and library patterns.
+- [Java](https://github.com/protocolbuffers/protobuf) - Main repository
+- [Python](https://github.com/protocolbuffers/protobuf) - Main repository
+
+<a name="lang-others"></a>
+### Others
+- [Android, Kotlin, Java](https://github.com/square/wire) - Wire - gRPC and protocol buffers for Android, Kotlin, and Java.

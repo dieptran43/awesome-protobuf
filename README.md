@@ -33,7 +33,7 @@
 
 <a name="ide"></a>
 ## IDE
-- [vscode-proto3](https://github.com/zxh0/vscode-proto3) - vscode extension for proto3
+- [vscode-proto3](https://github.com/zxh0/vscode-proto3) - Vscode extension for proto3
 - [IntelliJ plugin](https://plugins.jetbrains.com/plugin/14004-protocol-buffers)
 
 <a name="lang"></a>

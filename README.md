@@ -11,8 +11,11 @@
   * [CLI](#tools-cli)
 - [IDE](#ide)
 - [Language specific](#lang)
-  * [Official](#lang-official)
-  * [Others](#lang-others)
+  * [C++](#lang-cpp)
+  * [Go](#lang-go)
+  * [Haskell](#lang-haskell)
+  * [Java](#lang-java)
+  * [Python](#lang-python)
 
 
 <a name="doc"></a>
@@ -28,6 +31,7 @@
 <a name="tools"></a>
 ## Tools
 
+<a name="tools-cli"></a>
 ### CLI
 - [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 
@@ -39,14 +43,24 @@
 <a name="lang"></a>
 ## Language specific
 
-<a name="lang-official"></a>
-### Official
-- [C++](https://github.com/protocolbuffers/protobuf) - Main repository
-- [Go](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
-- [Haskell](https://github.com/google/proto-lens) - API for protocol buffers using modern Haskell language and library patterns.
-- [Java](https://github.com/protocolbuffers/protobuf) - Main repository
-- [Python](https://github.com/protocolbuffers/protobuf) - Main repository
+<a name="lang-cpp"></a>
+### C++
+- [Protobuf](https://github.com/protocolbuffers/protobuf) - Main repository
 
-<a name="lang-others"></a>
-### Others
+<a name="lang-go"></a>
+### Go
+- [Protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
+
+<a name="lang-haskell"></a>
+### Haskell
+- [Protobuf](https://github.com/google/proto-lens) - API for protocol buffers using modern Haskell language and library patterns.
+
+<a name="lang-java"></a>
+### Java
+- [Protobuf](https://github.com/protocolbuffers/protobuf) - Main repository
 - [Android, Kotlin, Java](https://github.com/square/wire) - Wire - gRPC and protocol buffers for Android, Kotlin, and Java.
+
+<a name="lang-python"></a>
+### Python
+- [Protobuf](https://github.com/protocolbuffers/protobuf) - Main repository
+- [proto-plus-python](https://github.com/googleapis/proto-plus-python) - Beautiful, idiomatic protocol buffers in Python

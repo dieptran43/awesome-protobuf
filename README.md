@@ -12,17 +12,22 @@
 - [IDE](#ide)
 - [Language specific](#lang)
   * [C++](#lang-cpp)
+  * [C#](#lang-csharp)
   * [Go](#lang-go)
-  * [Haskell](#lang-haskell)
   * [Java](#lang-java)
+  * [Swift](#lang-swift)
   * [Python](#lang-python)
+  * [JS](#lang-js)
+  * [Rust](#lang-rust)
+  * [Lua](#lang-lua)
+  * [Haskell](#lang-haskell)
 
 
 <a name="doc"></a>
 ## Documentation
-- [Website](https://developers.google.com/protocol-buffers) - Official documentation
-- [Github Repo](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [Style Guide](https://developers.google.com/protocol-buffers/docs/style) - Style guide for `.proto` files
+- [Website](https://developers.google.com/protocol-buffers) - Official documentation.
+- [Github Repo](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format.
+- [Style Guide](https://developers.google.com/protocol-buffers/docs/style) - Style guide for `.proto` files.
 
 <a name="linters"></a>
 ## Linters
@@ -37,7 +42,7 @@
 
 <a name="ide"></a>
 ## IDE
-- [vscode-proto3](https://github.com/zxh0/vscode-proto3) - Vscode extension for proto3
+- [vscode-proto3](https://github.com/zxh0/vscode-proto3) - Vscode extension for proto3.
 - [IntelliJ plugin](https://plugins.jetbrains.com/plugin/14004-protocol-buffers)
 
 <a name="lang"></a>
@@ -45,22 +50,42 @@
 
 <a name="lang-cpp"></a>
 ### C++
-- [Protobuf](https://github.com/protocolbuffers/protobuf) - Main repository
+- [Protobuf](https://github.com/protocolbuffers/protobuf) - Main repository.
+
+<a name="lang-csharp"></a>
+### C#
+- [protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET.
 
 <a name="lang-go"></a>
 ### Go
-- [Protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
+- [Protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers.
+
+<a name="lang-java"></a>
+### Java
+- [Protobuf](https://github.com/protocolbuffers/protobuf) - Main repository.
+- [Wire](https://github.com/square/wire) - gRPC and protocol buffers for Android, Kotlin, and Java.
+
+<a name="lang-swift"></a>
+### Swift
+- [swift-protobuf](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift.
+
+<a name="lang-python"></a>
+### Python
+- [Protobuf](https://github.com/protocolbuffers/protobuf) - Main repository.
+- [proto-plus-python](https://github.com/googleapis/proto-plus-python) - Beautiful, idiomatic protocol buffers in Python.
+
+<a name="lang-js"></a>
+### JS
+- [protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
+
+<a name="lang-rust"></a>
+### Rust
+- [rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers.
+
+<a name="lang-lua"></a>
+### Lua
+- [lua-protobuf](https://github.com/starwing/lua-protobuf) - A Lua module to work with Google protobuf.
 
 <a name="lang-haskell"></a>
 ### Haskell
 - [Protobuf](https://github.com/google/proto-lens) - API for protocol buffers using modern Haskell language and library patterns.
-
-<a name="lang-java"></a>
-### Java
-- [Protobuf](https://github.com/protocolbuffers/protobuf) - Main repository
-- [Android, Kotlin, Java](https://github.com/square/wire) - Wire - gRPC and protocol buffers for Android, Kotlin, and Java.
-
-<a name="lang-python"></a>
-### Python
-- [Protobuf](https://github.com/protocolbuffers/protobuf) - Main repository
-- [proto-plus-python](https://github.com/googleapis/proto-plus-python) - Beautiful, idiomatic protocol buffers in Python

@@ -15,6 +15,7 @@
   * [C#](#lang-csharp)
   * [Go](#lang-go)
   * [Java](#lang-java)
+  * [Android](#lang-android)
   * [Swift](#lang-swift)
   * [Python](#lang-python)
   * [JS](#lang-js)
@@ -64,6 +65,10 @@
 ### Java
 - [Protobuf](https://github.com/protocolbuffers/protobuf) - Main repository.
 - [Wire](https://github.com/square/wire) - gRPC and protocol buffers for Android, Kotlin, and Java.
+
+<a name="lang-android"></a>
+### Android
+- [Jetpack Datastore](https://developer.android.com/topic/libraries/architecture/datastore#proto-datastore) - Data storage solution that allows you to store key-value pairs or typed objects with protocol buffers.
 
 <a name="lang-swift"></a>
 ### Swift

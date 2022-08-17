@@ -9,7 +9,7 @@
 - [Linters](#linters)
 - [Tools](#tools)
   * [CLI](#tools-cli)
-- [IDE](#ide)
+- [IDE/Text Editors](#ide)
 - [Language specific](#lang)
   * [C++](#lang-cpp)
   * [C#](#lang-csharp)
@@ -42,9 +42,10 @@
 - [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 
 <a name="ide"></a>
-## IDE
+## IDE/Text Editors
 - [vscode-proto3](https://github.com/zxh0/vscode-proto3) - Vscode extension for proto3.
 - [IntelliJ plugin](https://plugins.jetbrains.com/plugin/14004-protocol-buffers)
+- [Protobuf Snippets](https://github.com/Clement-Jean/protobuf-snippets) - Emacs YASnippet snippets for Protocol Buffers
 
 <a name="lang"></a>
 ## Language specific

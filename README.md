@@ -42,6 +42,7 @@
 ### CLI
 - [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
 
+<a name="tools-plugins"></a>
 ### Plugins
 - [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - protoc plugin to generate polyglot message validators
 

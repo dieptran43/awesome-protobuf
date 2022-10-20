@@ -9,6 +9,7 @@
 - [Linters](#linters)
 - [Tools](#tools)
   * [CLI](#tools-cli)
+  * [Plugins](#tools-plugins)
 - [IDE/Text Editors](#ide)
 - [Language specific](#lang)
   * [C++](#lang-cpp)
@@ -40,6 +41,9 @@
 <a name="tools-cli"></a>
 ### CLI
 - [buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
+
+### Plugins
+- [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - protoc plugin to generate polyglot message validators
 
 <a name="ide"></a>
 ## IDE/Text Editors
